@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.dx.ss.demo</groupId>
 	<artifactId>twins-buffer-demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>twins-buffer-demo</name>
 	<description>双Buffer缓冲池Demo</description>
 
